@@ -27,11 +27,11 @@ Files Used
 
 Tech Used
 
-Python
-Jupyter Notebook
-Pandas
-NumPy
-Scikit-learn
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Scikit-learn
 
 Notes
 
