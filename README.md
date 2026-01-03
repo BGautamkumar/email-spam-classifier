@@ -9,7 +9,8 @@ It is implemented using Python and built inside a Jupyter Notebook.
 I created this project to understand the basic workflow of a machine learning classification problem, including data preprocessing, model training, and evaluation.
 
 How to Run
-1. Open Anaconda Prompt
+1. Open Anaconda Prompt <img width="2806" height="1018" alt="Screenshot 2026-01-03 172643" src="https://github.com/user-attachments/assets/7fad5ed5-062d-40ec-8aae-d1a88a7fa4c8" />
+
 2. Navigate to the project folder
 3. Start Jupyter Notebook: jupyter notebook
 4. Open the file `email_spam_classifier.ipynb`
